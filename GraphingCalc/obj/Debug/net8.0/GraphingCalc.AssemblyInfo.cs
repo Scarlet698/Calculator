@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GraphingCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b278def83d37c07753541c41fefb55d97e0fed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf35437a6a7ee024dce39a08b7ae4637b5c7aa66")]
 [assembly: System.Reflection.AssemblyProductAttribute("GraphingCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GraphingCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

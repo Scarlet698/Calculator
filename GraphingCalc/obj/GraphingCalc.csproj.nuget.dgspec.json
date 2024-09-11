@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Calculator\\GraphingCalc\\GraphingCalc.csproj": {}
+    "c:\\Calculator\\GraphingCalc\\GraphingCalc.csproj": {}
   },
   "projects": {
-    "C:\\Calculator\\GraphingCalc\\GraphingCalc.csproj": {
+    "c:\\Calculator\\GraphingCalc\\GraphingCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Calculator\\GraphingCalc\\GraphingCalc.csproj",
+        "projectUniqueName": "c:\\Calculator\\GraphingCalc\\GraphingCalc.csproj",
         "projectName": "GraphingCalc",
-        "projectPath": "C:\\Calculator\\GraphingCalc\\GraphingCalc.csproj",
+        "projectPath": "c:\\Calculator\\GraphingCalc\\GraphingCalc.csproj",
         "packagesPath": "C:\\Users\\jlski\\.nuget\\packages\\",
-        "outputPath": "C:\\Calculator\\GraphingCalc\\obj\\",
+        "outputPath": "c:\\Calculator\\GraphingCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jlski\\AppData\\Roaming\\NuGet\\NuGet.Config"

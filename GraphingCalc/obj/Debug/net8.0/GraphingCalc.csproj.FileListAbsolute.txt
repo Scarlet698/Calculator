@@ -1,0 +1,15 @@
+c:\Calculator\GraphingCalc\bin\Debug\net8.0\GraphingCalc.exe
+c:\Calculator\GraphingCalc\bin\Debug\net8.0\GraphingCalc.deps.json
+c:\Calculator\GraphingCalc\bin\Debug\net8.0\GraphingCalc.runtimeconfig.json
+c:\Calculator\GraphingCalc\bin\Debug\net8.0\GraphingCalc.dll
+c:\Calculator\GraphingCalc\bin\Debug\net8.0\GraphingCalc.pdb
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.AssemblyInfoInputs.cache
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.AssemblyInfo.cs
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.csproj.CoreCompileInputs.cache
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.sourcelink.json
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.dll
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\refint\GraphingCalc.dll
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.pdb
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\GraphingCalc.genruntimeconfig.cache
+c:\Calculator\GraphingCalc\obj\Debug\net8.0\ref\GraphingCalc.dll
